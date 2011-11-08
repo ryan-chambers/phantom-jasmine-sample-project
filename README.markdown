@@ -1,3 +1,12 @@
+NOTE: This project is forked from some work done by Ivan DeMarino
+[here](https://github.com/detro/phantomjs-jasminexml-example). He also wrote an 
+[article](http://blog.ivandemarino.me/2011/07/09/Maven-PhantomJS-and-Jasmine-to-write-your-JS-Unit-Testing) 
+describing his approach. The only change I made was to add the same validation.js and test file
+that I'm using in the other sample projects.
+
+-RC
+
+
 # PhantomJS - Jasmine XML - Example Project Layout
 
 ## Description
